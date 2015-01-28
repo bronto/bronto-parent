@@ -27,7 +27,7 @@
   <groupId>com.bronto.oss</groupId>
   <artifactId>oss-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>Bronto OSS Parent</name>
   <description>Bronto Open Source Software</description>
